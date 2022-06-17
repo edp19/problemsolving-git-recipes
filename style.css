@@ -1,0 +1,42 @@
+#body {
+    background-color: #DCD0FF;
+}
+.h1 {
+    font-family: "Dancing Script", "Anton", monospace;
+    font-size: 60px;
+    font-weight: 700px;
+    text-align: center;
+
+}
+#img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 15%;
+    
+}
+.p {
+    text-align: center;
+    font-family: "Arvo", "Cabin", monospace;
+    font-size: 24px;
+    padding: 20px;
+
+    }
+.li {
+    font-family: "Ruda", monospace;
+    text-align: center;
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    
+}
+a:link {
+    text-decoration: #880808;
+}
+a:visited {
+    text-decoration: #4F7942;
+}
+a:hover {
+    text-decoration: #FDDA0D;
+}
